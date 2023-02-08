@@ -32,4 +32,4 @@ JavaScript, TypeScript, TailwindCss, HTML5, CSS3, SCSS or Sass, Git
 
 
 # Currently Mastering ...:hourglass:	
-Shopify, Laravel, NodeJs, NextJs
+Shopify, Laravel, NodeJs, ReactJs, NextJs
