@@ -31,5 +31,5 @@ In my opinion? That's mind-blowing.
 JavaScript, TypeScript, TailwindCss, HTML5, CSS3, SCSS or Sass, Git
 
 
-# Currently Mastering ...:hourglass:	
+# Currently Mastering... :hourglass:	
 Shopify, Laravel, NodeJs, ReactJs, NextJs
